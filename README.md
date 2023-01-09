@@ -1,4 +1,8 @@
+[![deploymaent](https://github.com/LuisDeLaValie/github_ctions/actions/workflows/pipeline.yaml/badge.svg)](https://github.com/LuisDeLaValie/github_ctions/actions/workflows/pipeline.yaml)
+
+
 # github_ctions
+
 
 A new Flutter project.
 
